@@ -1,6 +1,6 @@
 # Weather App
 
-This Weather App allows users to retrieve weather forecasts for specific cities or their current location. It utilizes the OpenWeatherMap API to fetch weather data based on user input or geolocation.
+This App allows users to retrieve weather information and forecasts for specific cities or their current location. It utilizes the OpenWeatherMap API to fetch weather data based on user input or geolocation.
 
 ## Features
 
